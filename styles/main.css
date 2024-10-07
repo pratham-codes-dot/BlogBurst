@@ -1,0 +1,23 @@
+
+body {
+    background-color: #343a40; /* Dark background */
+    color: #ffffff; /* Text color */
+}
+.cover-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    min-height: 100vh; /* Full viewport height */
+}
+.nav-masthead {
+    background-color: #6c757d; /* Dark grey background */
+    padding: 10px; /* Add some padding */
+    width: 100%; /* Full width */
+}
+.btn-custom {
+    margin: 0 10px;
+    background-color: #495057; /* Match the dark template */
+    border: none; /* Remove border */
+    color: #ffffff; /* Ensure the text is white */
+}
